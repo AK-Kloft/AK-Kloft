@@ -24,3 +24,6 @@ text file giving a bit more context and key-terms, or add that as comments in th
 This is intended to be as useful as possible, yet as simple as possible. Of course it is good coding practice to comment in your script, but you don't need to
 make the script perfectly clean or explain everything like a tutorial. Upload the script you used and worked, only that in itself will be very useful to someone else
 some other day! :)
+
+
+ReadME created by EWi. Responsible people: EWi and ADe.
